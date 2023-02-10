@@ -1,19 +1,23 @@
-# make sure you understand the output
-# sometimes HR asks questions in a funky way.  not the most intitutive.
+## Before starting any hacker-rank techincal interview challenge
+* make sure you understand the output.
+* sometimes HR asks questions in a funky way.  not the most intitutive.
+* test cases get harder and harder.
+* some test cases are hidden.
+* if multiple questions, find the questions you think you can answer and do them first. 
 
-# test cases get harder and harder. 
-# some test cases are hidden. 
-# find the questions you think you can answer
-
-* Problem Set 1a: Buying Show Tickets
-* https://hr.gs/ctp-s21-1a
-* Password: ctp20-21
+HackerRank Problem Set 1A
+Buying Show Tickets
+https://hr.gs/ctp-s22-1a 
+Password: ctp2022prep
 
 
-* Problem Set 1b: Looping List, Huffman Decoder
-* https://hr.gs/ctp-s21-1b 
-* Password: ctp20-21
-* _Alternate Looping List (for non-C++ coders)_ https://leetcode.com/problems/linked-list-cycle/
+
+HackerRank Problem Set 1B (Homework)
+Looping Lists and Huffman Decoder
+https://hr.gs/ctp-s22-1b
+Password:  ctp2022prep
+Looping Lists for other languages: https://leetcode.com/problems/linked-list-cycle/ 
+
 
 # Buying show tickets
 
